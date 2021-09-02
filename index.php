@@ -1,6 +1,6 @@
 <?php
 
-include_once("number.html");
+include_once("index.html");
 
 
 ?>
